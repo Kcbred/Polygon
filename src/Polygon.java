@@ -29,20 +29,20 @@ public class Polygon {
        if(SL <= 0){
            SL = 1;
        }
-       if(NumSides = 3){
+       if(NumSides == 3){
            ShapeType = "Triangle";
        }
-       if(NumSides = 4){
+       if(NumSides == 4){
            ShapeType = "Square";
        }
-       if(NumSides = 5){
+       if(NumSides == 5){
            ShapeType = "Pentagon";
        }
-       if(NumSides = 6){
+       if(NumSides == 6){
            ShapeType = "Hexagon";
        }
        if(NumSides >= 7){
-           ShapeType = "Heh...Uh...I don't know"
+           ShapeType = "Heh...Uh...I don't know";
        }
    }
    //accessors
@@ -60,14 +60,12 @@ public class Polygon {
        return perimeter;
    }
 
-   public double calcPerimeter(){
+//mutators
+   public void calcPerimeter(double perimeter){
        perimeter = NumSides*SideLength;
    }
 
-    public double calcArea(){
 
-    }
-   ///mutators
 
     public void setNumSides(int NumSides) {
         this.NumSides = NumSides;

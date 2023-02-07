@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d122fca-f975-4290-964c-ba34e8f4835f" name="Changes" comment="Onto Mutators">
+    <list default="true" id="9d122fca-f975-4290-964c-ba34e8f4835f" name="Changes" comment="Finished what i could and understood.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Polygon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Polygon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PolygonTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PolygonTester.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +46,7 @@
       <updated>1675730612741</updated>
       <workItem from="1675730614035" duration="3587000" />
       <workItem from="1675734244240" duration="14000" />
-      <workItem from="1675755973746" duration="1950000" />
+      <workItem from="1675755973746" duration="2672000" />
     </task>
     <task id="LOCAL-00001" summary="Onto Mutators">
       <created>1675734212162</created>
@@ -56,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675734212162</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Finished what i could and understood.">
+      <created>1675758355163</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675758355163</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +81,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Onto Mutators" />
-    <option name="LAST_COMMIT_MESSAGE" value="Onto Mutators" />
+    <MESSAGE value="Finished what i could and understood." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished what i could and understood." />
   </component>
 </project>
