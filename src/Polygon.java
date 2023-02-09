@@ -67,7 +67,7 @@ public class Polygon {
    }
 
 //mutators
-   public void calcPerimeter(double perimeter){
+   public void calculatePerimeter(double perimeter){
        perimeter = Math.round(((SideLength*1000.0)*NumSides)/1000.0);
    }
 
